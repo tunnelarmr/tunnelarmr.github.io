@@ -6,7 +6,7 @@
 			"type": "Legendary Creature — Human ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "tunnelarmr.github.ioOmori, Boundless Dreamer.png"
+				"en": "https://raw.githubusercontent.com/tunnelarmr/tunnelarmr.github.io/main/OMOOmori, Boundless Dreamer.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "tunnelarmr.github.io.png"
+				"en": "https://raw.githubusercontent.com/tunnelarmr/tunnelarmr.github.io/main/OMO.png"
 			}
 		},
 		]
