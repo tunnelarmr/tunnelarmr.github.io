@@ -1,0 +1,28 @@
+[CustomCards]
+	[	{
+			"name": "Omori, Boundless Dreamer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "tunnelarmr.github.ioOmori, Boundless Dreamer.png"
+			}
+		},
+		{
+			"name": "",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "tunnelarmr.github.io.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	1 Omori, Boundless Dreamer
+		[UncommonSlot(3)]
+	[CommonSlot(7)]
+	30 
+		
